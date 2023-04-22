@@ -9,5 +9,8 @@ This template is free to use and modify as you see fit, without any restrictions
 ## Live Website
 [Live Website](https://marcelvanduijndev.github.io/Website/index.html)
 
+## Download
+[Dowload](https://github.com/MarcelvanDuijnDev/Website-Template/releases/tag/v1.0.0)
+
 ## Website Example:
 <img align="center" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/WebsiteExample.png">
